@@ -1,5 +1,3 @@
-Sure! Here's the `README.md` file content for the Microsoft Word task you provided:
-
 ```markdown
 # 📝 Microsoft Word Task – Using Home, Insert, Design & Layout Tabs
 
@@ -56,5 +54,3 @@ Save your file as: `Dream_Vacation.docx`
 
 ---
 ```
-
-You can copy and paste this into a file named `README.md`. Let me know if you want a downloadable version!
