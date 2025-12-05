@@ -2,15 +2,15 @@ Here’s a beginner-friendly **Microsoft Word task** that involves using both th
 
 ---
 
-## 📝 **Microsoft Word Task – Using Home & Insert Tabs**
+## **Microsoft Word Task – Using Home & Insert Tabs**
 
-### 🎯 **Objective:**
+### **Objective:**
 
 To practice applying text formatting and inserting basic elements using the **Home** and **Insert** tabs in MS Word.
 
 ---
 
-### 📄 **Task Instructions:**
+### **Task Instructions:**
 
 1. **Open Microsoft Word** and create a **new blank document**.
 
@@ -24,7 +24,7 @@ To practice applying text formatting and inserting basic elements using the **Ho
 
 ---
 
-### 🧰 **Using the Home Tab:**
+### **Using the Home Tab:**
 
 | Task           | Action                                                                        |
 | -------------- | ----------------------------------------------------------------------------- |
@@ -38,7 +38,7 @@ To practice applying text formatting and inserting basic elements using the **Ho
 
 ---
 
-### 🧩 **Using the Insert Tab:**
+### **Using the Insert Tab:**
 
 | Task            | Action                                                                                                                                                                                                                       |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,13 +49,9 @@ To practice applying text formatting and inserting basic elements using the **Ho
 
 ---
 
-### 💾 **Save the Document**
+###  **Save the Document**
 
-Save your file as: `Home_Insert_Task.docx`
-
----
-
-### ✅ **Bonus (Optional):**
+### **Bonus (Optional):**
 
 * Insert a **SmartArt** diagram to visually show three types of digital marketing.
 * Add a **header** with your name and today’s date.
