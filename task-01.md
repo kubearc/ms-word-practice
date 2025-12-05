@@ -1,12 +1,11 @@
-```markdown
-# 📝 Microsoft Word Task – Using the Home Tab
+# Microsoft Word Task – Using the Home Tab
 
-## 🎯 Objective
+##  Objective
 Learn to apply formatting and editing features using the **Home tab** in Microsoft Word. This task is ideal for beginners to become familiar with common formatting tools.
 
 ---
 
-## 📄 Task Instructions
+##  Task Instructions
 
 1. **Open Microsoft Word** and create a **new blank document**.
 
@@ -32,7 +31,7 @@ Learn to apply formatting and editing features using the **Home tab** in Microso
 
 ---
 
-## ✅ Bonus (Optional)
+##  Bonus (Optional)
 
 - Use the **Find** feature to search for the word **“marketing”** and replace it with **“promotion”**.
 - Apply a **Heading 1** style to the document title: `Introduction to Digital Marketing`.
