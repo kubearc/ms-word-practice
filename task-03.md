@@ -1,7 +1,4 @@
-Here’s the `README.md` version of your new Microsoft Word task involving **Home**, **Insert** tabs:
-
-```markdown
-# 📝 Microsoft Word Task – Home, Insert tabs
+# Microsoft Word Task – Home, Insert tabs
 
 ## 🎯 Objective
 
@@ -74,13 +71,3 @@ SocialMedia\_Task.docx
 - Use **WordArt** to style the title with a creative effect.
 
 ---
-
-## 📌 Notes
-
-This task encourages:
-- Proper document layout and structure
-- Creative use of visual elements
-- Practical application of Word's Home, Insert, and Layout features
-
-Happy practicing! 🎯
-```
