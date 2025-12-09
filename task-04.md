@@ -1,19 +1,18 @@
-```markdown
-# 📝 Microsoft Word Task – Using Home, Insert, Design & Layout Tabs
+# Microsoft Word Task – Using Home, Insert, Design & Layout Tabs
 
-## 🎯 Objective
+## Objective
 
 To create a well-formatted document that includes text formatting, images, styling, and layout adjustments.
 
 ---
 
-## 📄 Task Instructions
+## Task Instructions
 
 Create a document titled **"My Dream Vacation"** using the steps below:
 
 ---
 
-### ✅ 1. Use the *Home* Tab
+### 1. Use the *Home* Tab
 
 - Write a short paragraph (4–5 lines) about your dream vacation.
 - Change the **font style** to *Calibri* and the **font size** to *12*.
@@ -22,7 +21,7 @@ Create a document titled **"My Dream Vacation"** using the steps below:
 
 ---
 
-### ✅ 2. Use the *Insert* Tab
+### 2. Use the *Insert* Tab
 
 - Insert one image related to your vacation (e.g., beach, mountain, city).
 - Insert a **table** with 2 columns and 3 rows:
@@ -32,7 +31,7 @@ Create a document titled **"My Dream Vacation"** using the steps below:
 
 ---
 
-### ✅ 3. Use the *Design* Tab
+### 3. Use the *Design* Tab
 
 - Apply a **document theme** of your choice.
 - Add a **page border** to your document.
@@ -40,7 +39,7 @@ Create a document titled **"My Dream Vacation"** using the steps below:
 
 ---
 
-### ✅ 4. Use the *Layout* Tab
+### 4. Use the *Layout* Tab
 
 - Change the **page orientation** to *Landscape*.
 - Adjust the **margins** to *Narrow*.
@@ -48,7 +47,7 @@ Create a document titled **"My Dream Vacation"** using the steps below:
 
 ---
 
-## 📌 Final Step
+##  Final Step
 
 Save your file as: `Dream_Vacation.docx`
 
