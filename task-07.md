@@ -1,11 +1,11 @@
-```markdown
-# 📘 Microsoft Word Task – Using Captions, Cross-references & Table of Figures
+
+# Microsoft Word Task – Using Captions, Cross-references & Table of Figures
 
 This beginner-friendly task will help you practice advanced referencing features in Microsoft Word, such as **Captions**, **Cross-references**, and creating a **Table of Figures** using the **References tab**.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To learn how to:
 - Add captions to images and tables
@@ -14,7 +14,7 @@ To learn how to:
 
 ---
 
-## 📌 Task Instructions
+## Task Instructions
 
 1. **Open Microsoft Word** and create a new blank document.
 
@@ -53,7 +53,7 @@ To learn how to:
 
 ---
 
-## ✅ Expected Outcome
+##  Expected Outcome
 
 - A Word document with:
   - One **image** and one **table**, both labeled with **captions**
