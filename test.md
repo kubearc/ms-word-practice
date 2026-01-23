@@ -2,15 +2,15 @@ Here’s a **beginner-friendly Microsoft Excel task** focused on using the **Pag
 
 ---
 
-## 🧾 Microsoft Excel Task – Using the Page Layout Tab
+##  Microsoft Excel Task – Using the Page Layout Tab
 
-### 🎯 Objective:
+###  Objective:
 
 To learn and apply formatting, printing, and layout settings using the **Page Layout** tab in Microsoft Excel.
 
 ---
 
-### 📄 Task Instructions:
+### Task Instructions:
 
 1. **Open Microsoft Excel** and create a **new blank workbook**.
 
@@ -25,7 +25,7 @@ To learn and apply formatting, printing, and layout settings using the **Page La
 
 ---
 
-### 🖼 Using the Page Layout Tab
+### Using the Page Layout Tab
 
 | Task                   | Action                                                            |
 | ---------------------- | ----------------------------------------------------------------- |
@@ -42,7 +42,7 @@ To learn and apply formatting, printing, and layout settings using the **Page La
 
 ---
 
-### 💾 Save Your Workbook
+###  Save Your Workbook
 
 Save your file as:
 
@@ -52,12 +52,8 @@ PageLayout_Task.xlsx
 
 ---
 
-### ✅ Bonus (Optional)
+### Bonus (Optional)
 
 * Add a **header** that reads: `Quarterly Sales Report`.
 * Add a **footer** with your **name** and the **date**.
 * Insert a **bar chart** below the table showing total sales per department.
-
----
-
-Would you like this formatted into a `README.md` as well?
