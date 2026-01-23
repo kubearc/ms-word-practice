@@ -1,13 +1,12 @@
-```markdown
-# 📄 Microsoft Word Task – Comprehensive Practice using Multiple Tabs
+# Microsoft Word Task – Comprehensive Practice using Multiple Tabs
 
-## 🎯 Objective
+##  Objective
 
 To create a professionally formatted **invitation letter** using features from the **Home**, **Insert**, **Layout**, **Design**, **References**, and **Mailings** tabs in Microsoft Word.
 
 ---
 
-## 🛠 Tabs to Practice
+##  Tabs to Practice
 - Home
 - Insert
 - Layout
@@ -17,7 +16,7 @@ To create a professionally formatted **invitation letter** using features from t
 
 ---
 
-## 📝 Instructions
+## Instructions
 
 ### 1️⃣ Home Tab
 - Type the heading: **“Invitation to Annual Tech Meet 2025”**
@@ -55,13 +54,13 @@ To create a professionally formatted **invitation letter** using features from t
 
 ---
 
-## ✅ Expected Outcome
+##  Expected Outcome
 
 A clean, informative, and visually appealing **invitation letter** that demonstrates the use of text formatting, media insertion, layout control, design themes, referencing tools, and mail merge features.
 
 ---
 
-## 🧠 Tip
+##  Tip
 
 Save your work often and explore additional formatting options to improve your document’s presentation!
 
